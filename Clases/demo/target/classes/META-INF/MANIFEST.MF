@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 24
+Main-Class: co.edu.uniquindio.poo.demo.App
+Created-By: Maven Integration for Eclipse
+
